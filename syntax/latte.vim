@@ -77,7 +77,7 @@ hi def link latteTodo Todo
 hi def link latteComment Comment
 hi def link latteMacroTranslate String
 
-hi def link phpRegion Error
+" hi def link phpRegion Error
 hi def link latteError Error
 
 let b:current_syntax = 'latte'
